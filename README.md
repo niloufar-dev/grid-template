@@ -1,4 +1,4 @@
-# 🌟 [Your Project Name] - Responsive Gallery
+# 🌟 Responsive Gallery
 
 This is a personal gallery and portfolio showcasing my projects, built responsively using **Tailwind CSS** and **CSS Grid**. It is designed to look perfect on all screen sizes.
 
