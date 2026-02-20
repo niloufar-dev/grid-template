@@ -5,7 +5,7 @@ This is a personal gallery and portfolio showcasing my projects, built responsiv
 ---
 
 ## 🚀 Live Demo
-👉 [**Click Here to View Live Demo**](https://niloufar-dev.github.io/digital-product-website/src/index.html)  
+👉 [**Click Here to View Live Demo**](https://niloufar-dev.github.io/grid-template/src/index.html)  
 
 ---
 ## 📸 Screenshots
